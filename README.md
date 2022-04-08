@@ -1,6 +1,6 @@
 # GOT Wordle
 
-**GOT Wordle** is a clone project of the popular word guessing game [Wordle](https://www.nytimes.com/games/wordle/index.html). This project is modified from https://github.com/cwackerfuss/react-wordle.
+**GOT Wordle** is a *Game of Thrones*-themed [Wordle](https://www.nytimes.com/games/wordle/index.html) clone. This project is modified from https://github.com/cwackerfuss/react-wordle.
 
 ## Build and run the project locally
 
